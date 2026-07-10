@@ -6,4 +6,4 @@ The goal of this repository is to explore interesting problems and hone my criti
 Log:
 - 18/6/26 - [Leet Code 430 (Medium) : Flatten a Multilevel Double Linked List](430.cpp)
 - 20/6/26 - [Leet Code 61 (Medium): Rotate List](61.cpp)
-- 11/7/26 - [Leet Code 23 (Hard) : Merge k Sorted Lists]
+- 11/7/26 - [Leet Code 23 (Hard) : Merge k Sorted Lists](23.cpp)
