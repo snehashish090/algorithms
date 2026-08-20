@@ -6,6 +6,13 @@ using namespace std;
 * Merge all the linked-lists into one sorted linked-list and return it.
 *
 */
+
+struct ListNode
+{
+    ListNode* next;
+    int val;
+};
+
 class Solution {
 public:
 
